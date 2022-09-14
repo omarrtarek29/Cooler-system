@@ -4,13 +4,15 @@
 
 
 <h2> Requirements </h2>
-- Main function: Run a cooler (DC motor) with a speed which increased when temperature increased and will start to run if the 
+
+- Main function: run a cooler (DC motor) with a speed which increased when temperature increased and will start to run if the 
 temperature is greater than 35C.
 
-- System consists of:  Cooler system (DC motor), LED, buzzer, temperature sensor (LM35), LCD and 2 seven segments.
+- System consists of:  cooler system (DC motor), LED, buzzer, temperature sensor (LM35), LCD and 2 seven segments.
 
 
 <h2> Details </h2>
+
 - Cooler, buzzer and LED will be on when temperature is more than 35C and off when less than 35C.
 
 - Temperature should be appeared on LCD first row and also in seven-seg.
@@ -22,6 +24,6 @@ should be from 2.5 to 5 volt.
 
 
 <h2> System design </h2>
-![cooler](https://user-images.githubusercontent.com/53778517/190093723-ac4ebb68-44e0-4901-87a1-f42a48ad4bfa.png)
+<img src= "system_design.png"/>
 
 <br>

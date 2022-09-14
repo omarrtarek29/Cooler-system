@@ -1,6 +1,6 @@
 <h1 align="center"> Cooler system </h1>
 
-<div align='center' size='30px'> Embedded systems projects monitors temperature and cool the system automatically <br> </div>
+<div align='center' size='30px'> Embedded systems project monitors temperature and cool the system automatically <br> </div>
 
 
 <h2> Requirements </h2>
